@@ -1,0 +1,11 @@
+TBI data base all subject age and gender informations :  
+
+Nombre total des sujets:  47 
+
+Nombre total des hommes:  34
+     Nombre total des jeunes hommes:  23
+     Nombre total des hommes ages :  10 
+
+Nombre total des femmes:  13
+     Nombre total des jeunes femmes:  11
+     Nombre total des femmes agees :  2

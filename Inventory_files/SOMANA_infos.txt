@@ -1,0 +1,11 @@
+SOMANA data base all subject age and gender informations :  
+
+Nombre total des sujets:  70 
+
+Nombre total des hommes:  31
+     Nombre total des jeunes hommes:  19
+     Nombre total des hommes ages :  12 
+
+Nombre total des femmes:  38
+     Nombre total des jeunes femmes:  14
+     Nombre total des femmes agees :  24

@@ -1,0 +1,11 @@
+AHI data base all subject age and gender informations :  
+
+Nombre total des sujets:  78 
+
+Nombre total des hommes:  62
+     Nombre total des jeunes hommes:  1
+     Nombre total des hommes ages :  61 
+
+Nombre total des femmes:  16
+     Nombre total des jeunes femmes:  0
+     Nombre total des femmes agees :  16

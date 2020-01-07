@@ -1,0 +1,11 @@
+Ctrl data base all subject age and gender informations :  
+
+Nombre total des sujets:  163 
+
+Nombre total des hommes:  89
+     Nombre total des jeunes hommes:  39
+     Nombre total des hommes ages :  47 
+
+Nombre total des femmes:  66
+     Nombre total des jeunes femmes:  25
+     Nombre total des femmes agees :  41

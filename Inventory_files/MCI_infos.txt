@@ -1,0 +1,11 @@
+MCI data base all subject age and gender informations :  
+
+Nombre total des sujets:  62 
+
+Nombre total des hommes:  48
+     Nombre total des jeunes hommes:  1
+     Nombre total des hommes ages :  47 
+
+Nombre total des femmes:  11
+     Nombre total des jeunes femmes:  0
+     Nombre total des femmes agees :  11

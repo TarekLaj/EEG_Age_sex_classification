@@ -1,0 +1,173 @@
+,Subject_id,Number of EEG channels,EEG channel names,Sampling frequency
+0,rej039_Stage_dépistage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+1,10008_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+2,10009_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+3,10030_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+4,10035_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+5,10041_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+6,11008_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+7,11010_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+8,11013_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+9,11028_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+10,11032_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+11,11034_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+12,11035_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+13,11037_Stage_Montage_1.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+14,11037_Stage_Montage_2.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+15,11038_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+16,11039_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+17,11042_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+18,11043_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+19,11049_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+20,13009_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+21,14001_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+22,14004_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+23,14017_Stage_dépistage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+24,15032_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+25,15047_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+26,16026_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+27,16027_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+28,16028_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+29,16035_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+30,16058n0c_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",256.0
+31,16058n0-op_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",256.0
+32,16097n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",256.0
+33,16174n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",256.0
+34,16212n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+35,16249-n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+36,16251n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+37,16283n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+38,16310n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+39,16337n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+40,16342n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+41,16350n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+42,16366n0_Stade_Montage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+43,16370n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+44,16412n0_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+45,16425n0_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+46,16438n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+47,16443n0_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+48,16471n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+49,16472n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+50,16474n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+51,16480n00_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+52,16493n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+53,16604n0_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+54,16609n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg2, ECG ecg1, EEG F3, EEG F4]",512.0
+55,16612n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+56,16614n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg2, ECG ecg1, EEG F3, EEG F4]",512.0
+57,rej005_Stage_dépistage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+58,rej007_Stage_dépistage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+59,rej016_Stage_dépistage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+60,rej017_Stage_dépistage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+61,rej030_Stage_dépistage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+62,rej032_Stage_dépistage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+63,rej036_Stage_dépistage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+64,10008_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+65,10009_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+66,10030_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+67,10035_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+68,10041_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+69,11008_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+70,11010_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+71,11013_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+72,11028_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+73,11032_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+74,11034_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+75,11035_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+76,11037_Stage_Montage_1.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+77,11037_Stage_Montage_2.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+78,11038_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+79,11039_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+80,11042_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+81,11043_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+82,11049_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+83,13009_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+84,14001_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+85,14004_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+86,14017_Stage_dépistage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+87,15032_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+88,15047_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+89,16026_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+90,16027_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+91,16028_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+92,16035_Stage_Montage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+93,16058n0c_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",256.0
+94,16058n0-op_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",256.0
+95,16097n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",256.0
+96,10005n0_caf200_Stage_dépistage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+97,10005n0_caf400_Stage_dépistage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+98,10005n0_opos_Stade_Montage.edf,6,"[EEG C4, EEG C3, EEG O2, EEG O1, ECG Ecg, ECG ECG2]",512.0
+99,10005n0_somana_Stade_dépistage_1.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+100,10005n0_somana_Stade_dépistage_2.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+101,10010_Stage_Montage.edf,5,"[EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+102,10022_Stage_Montage.edf,5,"[EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+103,10025_Stage_Montage.edf,5,"[EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+104,10031_Stage_Montage.edf,5,"[EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+105,10039_Stage_Montage.edf,5,"[EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+106,10040_Stage_Montage.edf,5,"[EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+107,11012_Stage_Montage.edf,5,"[EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+108,11017_Stage_Montage.edf,5,"[EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+109,11022_Stage_Montage.edf,5,"[EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+110,11047_Stage_Montage.edf,5,"[EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+111,13002_Stage_Montage.edf,5,"[EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+112,14011_Stage_Montage.edf,5,"[EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+113,16012_Stage_Montage.edf,5,"[EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+114,16080n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",256.0
+115,16165n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",256.0
+116,16191n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",256.0
+117,16193n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+118,16198n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+119,16201n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+120,16233n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+121,16234n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+122,16258n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+123,16316no_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+124,16324n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+125,16351n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+126,16352n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+127,16371 n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+128,16386n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+129,16387n0_Stade_Montage.edf,6,"[EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+130,16388n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+131,16392n0_Stade_dépistage.edf,9,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2]",512.0
+132,16396n0_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+133,16401n0_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+134,16404n0_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+135,16407n0_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+136,16415n0_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+137,16416n0_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+138,16420n0_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+139,16436n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+140,16446n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+141,16482n0_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+142,16497n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+143,16601n0_Stade_dépistage_1.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+144,16601n0_Stade_dépistage_2.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+145,16602n0_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+146,16613nos_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1, ECG ecg2, ECG ECG3, EEG F3]",512.0
+147,16615n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg2, ECG ecg1, EEG F3, EEG F4]",512.0
+148,16618n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg2, ECG ecg1, EEG F3, EEG F4]",512.0
+149,16623n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg2, ECG ecg1, EEG F3, EEG F4]",512.0
+150,16625n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg2, ECG ecg1, EEG F3, EEG F4]",512.0
+151,16630n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg2, ECG ecg1, EEG F3, EEG F4]",512.0
+152,16632n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg2, ECG ecg1, EEG F3, EEG F4]",512.0
+153,16633n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg2, ECG ecg1, EEG F3, EEG F4]",512.0
+154,16635n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg2, ECG ecg1, EEG F3, EEG F4]",512.0
+155,16636n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg2, ECG ecg1, EEG F3, EEG F4]",512.0
+156,16637n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg2, ECG ecg1, EEG F3, EEG F4]",512.0
+157,16639n0s_Stade_dépistage.edf,11,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg2, ECG ecg1, EEG F3, EEG F4]",512.0
+158,rej003_Stage_DEPISTAGE.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+159,rej009_Stage_DEPISTAGE.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+160,rej014_Stage_dépistage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+161,rej018_Stage_DEPISTAGE.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+162,rej021_Stage_DEPISTAGE.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+163,rej022_Stage_DEPISTAGE.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+164,rej026_Stage_dépistage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+165,rej033_Stage_DEPISTAGE.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+166,rej037_Stage_DEPISTAGE.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+167,rej038_Stage_dépistage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+168,rej041_Stage_DEPISTAGE.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+169,rej042_Stage_DEPISTAGE.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",256.0
+170,rej043_Stage_dépistage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0
+171,rej044_Stage_dépistage.edf,8,"[EMG emg1, EMG emg2, EMG emg3, EEG C4, EEG C3, EEG O2, EEG O1, ECG ecg1]",128.0

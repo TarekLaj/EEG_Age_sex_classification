@@ -1,0 +1,11 @@
+TRIO data base all subject age and gender informations :  
+
+Nombre total des sujets:  315 
+
+Nombre total des hommes:  203
+     Nombre total des jeunes hommes:  63
+     Nombre total des hommes ages :  136 
+
+Nombre total des femmes:  101
+     Nombre total des jeunes femmes:  36
+     Nombre total des femmes agees :  65
